@@ -2,6 +2,12 @@
 
 Codelab is a browser-based code editor built as a **single HTML file**. It provides a VS Code-inspired development experience with a file explorer, multi-tab editor, integrated terminal, search, command palette, and other developer tools — all from one file.
 
+
+https://github.com/user-attachments/assets/0f4acf68-a85c-40d1-9d99-d8c744f7ee14
+
+
+
+
 ## Features
 
 * VS Code-inspired interface
